@@ -1,6 +1,8 @@
-# Security\_base-GPT
+---
+description: 网络安全新赛道
+---
 
-![GitHub Repo contributors](https://img.shields.io/github/contributors/adminlove520/security\_base-GPT?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/adminlove520/security\_base-GPT?style=social)
+# Security\_base-GPT
 
 ## 简介
 
@@ -40,5 +42,3 @@ security\_base-GPT是一个涵盖了前沿学术研究和实践经验分享的�
 | --------------------------------------- | -------------------------------------------- |
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=adminlove520/security\_base-GPT\&type=Date)](https://star-history.com/#adminlove520/security\_base-GPT\&Date)
