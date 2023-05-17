@@ -1,4 +1,4 @@
-# Table of contents
+# Contents
 
 * [security_base-GPT](README.md)
 * [Security Papers](security-papers.md)
