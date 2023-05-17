@@ -3,7 +3,7 @@
 
 ## 简介
 
-欢迎来到 security_base-GPT！这是一个专注于未来安全领域智能革命的知识库！
+欢迎来到 security_base-GPT！这是一个网络安全与人工智能的知识库！
 
 security_base-GPT是一个涵盖了前沿学术研究和实践经验分享的社区，集成了生成预训练 Transformer（GPT）、人工智能生成内容（AIGC）以及大型语言模型（LLM）等安全领域应用的知识。在这里，您可以找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts）。
 基于chatGPT的网络安全prompt仓库：
