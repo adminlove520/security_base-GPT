@@ -1,14 +1,14 @@
-# Security\_base-GPT
+---
+description: 网络安全新赛道
+---
 
-![GitHub Repo contributors](https://img.shields.io/github/contributors/adminlove520/security\_base-GPT?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/adminlove520/security\_base-GPT?style=social)
+# Security\_base-GPT
 
 ## 简介
 
 欢迎来到 security\_base-GPT！这是一个网络安全与人工智能的知识库！
 
-security\_base-GPT是一个涵盖了前沿学术研究和实践经验分享的社区，集成了生成预训练 Transformer（GPT）、人工智能生成内容（AIGC）以及大型语言模型（LLM）等安全领域应用的知识。在这里，您可以找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts）。 基于chatGPT的网络安全prompt仓库：
-
-security\_base-GPT不仅关注当前的技术和趋势，更希望成为塑造未来安全领域智能革命的参与者和推动者。在这个迅速发展的领域，我们需要共同努力、拥抱变革并持续发展，以确保在人工智能和机器学习的浪潮中，更好的将新技术应用于安全。我们的目标是为安全领域的从业者、研究者和开发者提供一个便捷的协作平台，让他们能够在这里分享经验、交流观点和探索新的可能性。
+security\_base-GPT是一个涵盖了前沿学术研究和实践经验分享的社区，集成了生成预训练 Transformer（GPT）、人工智能生成内容（AIGC）以及大型语言模型（LLM）等安全领域应用的知识。在这里，您可以找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts）。 基于chatGPT的网络安全prompt仓库： [SEC-GPT](https://github.com/adminlove520/SEC-GPT) security\_base-GPT不仅关注当前的技术和趋势，更希望成为塑造未来安全领域智能革命的参与者和推动者。在这个迅速发展的领域，我们需要共同努力、拥抱变革并持续发展，以确保在人工智能和机器学习的浪潮中，更好的将新技术应用于安全。我们的目标是为安全领域的从业者、研究者和开发者提供一个便捷的协作平台，让他们能够在这里分享经验、交流观点和探索新的可能性。
 
 ## 贡献指南
 
@@ -35,13 +35,8 @@ security\_base-GPT不仅关注当前的技术和趋势，更希望成为塑造�
 
 欢迎大家加入 东方隐侠安全实验室 公众号、群聊已接入基于chatGPT、midjourney的机器人，欢迎使用
 
-\
-
-
 | 公众号                                  | 知识星球                                     |
 | ------------------------------------ | ---------------------------------------- |
 | ![yun](docs/.gitbook/assets/yun.jpg) | ![image](docs/.gitbook/assets/image.jpg) |
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=adminlove520/security\_base-GPT\&type=Date)](https://star-history.com/#adminlove520/security\_base-GPT\&Date)
