@@ -38,13 +38,13 @@ security_base-GPT不仅关注当前的技术和趋势，更希望成为塑造未
 欢迎大家加入 东方隐侠安全实验室
 公众号、群聊已接入基于chatGPT、midjourney的机器人，欢迎使用
 
-## 公众号
-<div align=center><img src="docs/.gitbook/assets/yun.jpg" alt="" width="40%" height="40%"><figcaption></figcaption></div>
-
-## 知识星球
-<div align=center><img src="docs/.gitbook/assets/image.jpg" alt="" width="40%" height="40%"><figcaption></figcaption></div>
-
-
+<br />
+<table>
+    <tr>
+        <td ><img src="docs/.gitbook/assets/yun.jpg" alt="yun" width="500px"/>公众号</td>
+        <td><img src="docs/.gitbook/assets/image.jpg" alt="image"  width="500px"/>知识星球</td>
+    </tr>
+</table>
 
 
 ## Star History
